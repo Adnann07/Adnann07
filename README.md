@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![GitHub Streak](https://github-readme-streak-statss-five.vercel.app?user=Adnann07&theme=github-dark)](https://git.io/streak-stats)
+
 <!--
 **Adnann07/Adnann07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
